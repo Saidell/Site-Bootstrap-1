@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+.{
+    padding: 0;
+    border: 0;
+}
+div{
+    border: solid 0px blue;
+}
+body{
+    background-color: #aea574;
+}
+h4{
+    justify-content: center;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+a{
+    font-family: 'Lato', sans-serif;
+}
+h3, h2{
+    justify-content: center;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.texto1{
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+.bg-teste{
+    background-color: rgb(130, 121, 69);
+}
+.sec1{
+    margin-top: 100px;
+}
+#carouselExampleSlidesOnly{
+    margin-bottom: 150px;
+}
+.text-bg-teste{
+    background-color: rgb(130, 121, 69);
+}
+.btn-teste{
+    background-color: aliceblue;
+}
+h5, p{
+    justify-content: center;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
